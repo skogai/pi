@@ -138,6 +138,10 @@
       },
     },
   },
+  "trustedDependencies": [
+    "@google/genai",
+    "protobufjs",
+  ],
   "overrides": {
     "rimraf": "6.1.2",
   },
